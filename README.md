@@ -1,6 +1,6 @@
 A modal transfer enhanced deep learning for structural dynamic response with sparse spatial data 
 * Requirements: Python: 3.8.20; CUDA: 11.2; TensorFlow-GPU : 2.7.0; DeepXDE: 1.3.1.
-* Requirements: torch 2.5.1+cu124; python 3.12.3 (GCN)
+* Requirements: torch 2.5.1+cu124; Python 3.12.3 (GCN)
 Make sure your NVIDIA GPU driver is compatible with CUDA 11.2 to enable GPU acceleration with TensorFlow.
 Create a Conda Environment
 conda create -n myenv python=3.8.20
