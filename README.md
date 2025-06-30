@@ -16,10 +16,10 @@ pip install torch==2.5.1+cu12.4 https://download.pytorch.org/whl/torch_stable.ht
 Jupyter Notebook as the development environment
 
 In the code repository, we provide four sets of files: 
-	Section 3: Includes the implementation of the DL, GCN, and MT-DL models, along with modal and vibration data of a variable-stiffness beam. 
-	Section 4.1: Simulation of continuous beams under moving load. 
-	Section 4.2: A plate with complex boundary conditions subjected to impact loading. 
-	Section 4.3: Vortex-induced vibration of a flexible riser.
+-	Section 3: Includes the implementation of the DL, GCN, and MT-DL models, along with modal and vibration data of a variable-stiffness beam. 
+-	Section 4.1: Simulation of continuous beams under moving load. 
+-	Section 4.2: A plate with complex boundary conditions subjected to impact loading. 
+-	Section 4.3: Vortex-induced vibration of a flexible riser.
 
 Author's Email: 2111378@tongji.edu.cn
 
